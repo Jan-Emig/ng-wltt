@@ -4,4 +4,4 @@ This is the angular version of the original [Wiener Linien Traffic Tracker](http
 For more details or questions, please refer to the original repository.
 
 ## License
-All rights reserved. See the [LICENSE](LICENSE) file for details.
+All rights reserved. See the [LICENSE](./license.md) file for details.
